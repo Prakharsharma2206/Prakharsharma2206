@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Prakhar Sharma!](https://prakharsharma2206.github.io/Resume), junior year student at Maharaja Agrasen Institute of Technology and an enthusiastic Full Stack Web Developer, a keen learner for DSA and a social servent through NGO 🚀 from India.
 
-  <img alt="GIF" src="https://github.com/Prakharsharma2206/Prakharsharma2206/tree/main/assets/Code.gip?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/Prakharsharma2206/Prakharsharma2206/tree/main/assets/Code.gip" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
