@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Prakhar Sharma!](https://prakharsharma2206.github.io/Resume), junior year student at Maharaja Agrasen Institute of Technology and an enthusiastic Full Stack Web Developer, a keen learner for DSA and a social servent through NGO 🚀 from India.
 
-  <img alt="GIF" src="https://github.com/Prakharsharma2206/Prakharsharma2206/tree/main/assets/Code.gip" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/Prakharsharma2206/Prakharsharma2206/tree/main/assets/Code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -63,7 +63,7 @@ Hi, I'm [Prakhar Sharma!](https://prakharsharma2206.github.io/Resume), junior ye
 **📈 My GitHub Stats**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apoorvdwi&show_icons=true&theme=gotham" alt="apoorvdwi" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvdwi&layout=compact&show_icons=true&theme=gotham" alt="apoorvdwi" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prakharsharma2206&show_icons=true&theme=gotham" alt="Prakharsharma2206" />  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsharma2206&layout=compact&show_icons=true&theme=gotham" alt="Prakharsharma2206" /></p>
 <br>
 
 <a align="center" href="https://www.linkedin.com/in/prakhar-sharma-2206/">
