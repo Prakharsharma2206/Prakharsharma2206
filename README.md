@@ -76,11 +76,12 @@ Hi, I'm [Prakhar Sharma!](https://prakharsharma2206.github.io/Resume), junior ye
 </a>
 
 <a align="center" href="https://twitter.com/prakhar05471119">
-  <img align="left" alt="Prakhar's Twitter" width="22px" src="https://iconhelper.cn/svg/brands/twitter.svg" />
+  <img align="left" alt="Prakhar's Twitter" width="22px" src="http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png" />
 </a>
 
 <a align="center" href="mailto: prakharsharma22@gmail.com">
-  <img align="left" alt="Prakhar's Mail" width="22px" src="https://iconhelper.cn/svg/brands/gmail.svg" />
+<!--   <img align="left" alt="Prakhar's Mail" width="22px" src="https://iconhelper.cn/svg/brands/gmail.svg" /> -->
+  📧
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prakharsharma2206.Prakharsharma2206)
