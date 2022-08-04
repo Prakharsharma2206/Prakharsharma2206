@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 </a>
 
 <a align="center" href="mailto: prakharsharma22@gmail.com">
-  <img align="left" alt="Prakhar's Mail" width="22px" src="https://iconhelper.cn/svg/brands/gmail.svg" />
+<!--   <img align="left" alt="Prakhar's Mail" width="22px" src="https://iconhelper.cn/svg/brands/gmail.svg" /> -->
+  📧
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Prakharsharma2206.Prakharsharma2206)
