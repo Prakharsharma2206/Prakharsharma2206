@@ -44,7 +44,7 @@ Hi, I'm [Prakhar Sharma!](https://prakharsharma2206.github.io/Resume), junior ye
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently trying my hands and mind on DSA;
-- 👨🏽‍💻 I’m currently working as SDE Intern in [Swastik Classes](https://www.swastikclasses.com);
+- 👨🏽‍💻 I’m currently working as SDE Intern in a StartUp;
 - 💬 We can connect for any discussion or chit-chat [prakhar-sharma-2206](https://www.linkedin.com/in/prakhar-sharma-2206/);
 - 📫 Reach out to me for anything: [@prakhar_2206](https://www.instagram.com/prakhar_2206/);
 - 📝[@Resume](https://prakharsharma2206.github.io/Resume/assets/Download/Resume_Download_Prakhar_Sharma.pdf)
